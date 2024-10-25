@@ -1,0 +1,31 @@
+#include <winver.h>
+
+IDI_ICON1 ICON "resources/icon.ico"
+//IDB_BITMAP1 BITMAP "resources/bin.zip"
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 8,0,4,0
+PRODUCTVERSION 8,0,4,0
+FILEFLAGSMASK 0x3fL
+FILEFLAGS 0x0L
+FILEOS 0x40004L
+FILETYPE 0x1L
+FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"  // 语言和字符集
+        BEGIN
+            VALUE "CompanyName", "长沙咖啡磨成分子有限公司"
+            VALUE "FileDescription", "使用此程序能迅速将咖啡磨成分子形态"
+            VALUE "FileVersion", "8.0.4.0"
+            VALUE "LegalCopyright", "长沙咖啡磨成分子有限公司 版权没有"
+            VALUE "ProductName", "咖啡研磨机"
+            VALUE "ProductVersion", "5.7.1.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
