@@ -1,6 +1,8 @@
 # damnCoffee
 
-一款简单的后渗透免杀加载器，轻松Bypass AV/EDR，已测360，其余杀软自测
+好不容易拿了个shell发现有杀软啥工具也运行不了，那还渗透个damn啊，下班饮coffee啦
+
+damnCoffee，一款简单的后渗透免杀加载器，轻松Bypass AV/EDR，已测360，其余杀软自测
 
 [![pAwgNLt.png](https://s21.ax1x.com/2024/10/25/pAwgNLt.png)](https://imgse.com/i/pAwgNLt)
 
