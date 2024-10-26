@@ -1,6 +1,6 @@
 # damnCoffee
 
-好不容易拿了个shell发现有杀软啥工具也运行不了，那还渗透个damn啊，下班饮coffee啦
+饮杯coffee上班，好不容易拿了个shell发现有杀软啥工具也运行不了，那还渗透个damn啊
 
 damnCoffee，一款简单的后渗透免杀加载器，轻松Bypass AV/EDR，已测360，其余杀软自测
 
